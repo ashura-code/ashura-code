@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 -->
 - 🔭 Discovering tech
-- 🌱 I’m currently learning Web Dev
+- 🌱 I’m currently learning Web Dev , Open Source
 - 👯 I’m looking to collaborate on new technologies
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about  Python or related stuff
-- 📫 How to reach me: +91 7339448769 @adhit
+- 📫 How to reach me: +91 7339448769 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: CS makes me talk.
 
