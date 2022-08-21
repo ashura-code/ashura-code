@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashura-code&show_icons=true&locale=en&layout=compact" alt="ashura-code" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashura-code&" alt="ashura-code" /></p>
+
 
 
 
